@@ -1,2 +1,5 @@
 # VowelTrainer
 
+ARKitで検知した口周りのデータをcsv形式で出力する。
+母音と口閉じ時ごとにvowelカラムに記録出来る。
+CreateMLに投げるデータ作る用
